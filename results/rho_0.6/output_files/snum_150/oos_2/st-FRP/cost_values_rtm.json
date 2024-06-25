@@ -1,0 +1,43 @@
+{
+    "total cost": 319022.2774040433,
+    "detailed cost results": {
+        "generator costs": {
+            "g1": {
+                "variable production cost": 236122.31114325736,
+                "fixed commitment cost": 28392.00715122869,
+                "startup cost": 0.0,
+                "total generator cost": 264514.31829448615
+            },
+            "g2": {
+                "variable production cost": 0.0,
+                "fixed commitment cost": 0.0,
+                "startup cost": 0.0,
+                "total generator cost": 0.0
+            },
+            "g3": {
+                "variable production cost": 0.0,
+                "fixed commitment cost": 0.0,
+                "startup cost": 0.0,
+                "total generator cost": 0.0
+            },
+            "g4": {
+                "variable production cost": 0.0,
+                "fixed commitment cost": 0.0,
+                "startup cost": 0.0,
+                "total generator cost": 0.0
+            },
+            "g5": {
+                "variable production cost": 27836.029600824026,
+                "fixed commitment cost": 12161.559508733142,
+                "startup cost": 14510.369999999999,
+                "total generator cost": 54507.95910955717
+            }
+        },
+        "total cost of generators": 319022.2774040433,
+        "load curtailment cost": 0.0,
+        "line overflow penalty": 0.0,
+        "up-FRP shortfall penalty": 0.0,
+        "down-FRP shortfall penalty": 0.0,
+        "total cost": 319022.2774040433
+    }
+}

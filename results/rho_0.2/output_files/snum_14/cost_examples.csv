@@ -1,0 +1,8 @@
+,method-1,method-2
+aggregate variable production cost,7620867.17840039,7688604.5844117515
+aggregate fixed commitment cost,1230198.2433672096,1197906.3406633656
+aggregate startup cost,213331.11000000004,178368.57999999996
+aggregate total generator cost,9064396.531767597,9064879.505075118
+aggregate load curtailment cost,0.0,84964.31123235702
+aggregate line overflow penalty,0.0,0.0
+aggregate total cost,9064396.531767597,9149843.816307474

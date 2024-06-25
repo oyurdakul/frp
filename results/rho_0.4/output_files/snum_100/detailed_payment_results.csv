@@ -1,0 +1,6 @@
+benchmark method,aggregate energy payment,aggregate up-FRP payment,aggregate down-FRP payment,aggregate make-whole payment,aggregate total payment
+st-FRP,"16,097,245.37","1,029,616.24",0.00,"2,921.45","17,129,783.06"
+nf-FRP,"14,041,835.22","632,177.99",0.00,"1,475.50","14,675,488.71"
+90-FRP,"12,576,780.10","10,293.72",0.00,"8,503.08","12,595,576.90"
+95-FRP,"11,765,870.27","19,379.22",0.00,"8,917.32","11,794,166.81"
+99-FRP,"13,696,433.95","373,596.89",0.00,893.01,"14,070,923.86"

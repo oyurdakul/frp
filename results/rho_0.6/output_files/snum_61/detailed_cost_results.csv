@@ -1,0 +1,6 @@
+benchmark method,aggregate load curtailment cost,aggregate up-FRP shortfall penalty,aggregate down-FRP shortfall penalty,aggregate line overflow penalty,aggregate total cost,aggregate total generator cost
+st-FRP,0.00,0.00,0.00,0.00,"9,040,609.24","9,040,609.24"
+nf-FRP,"19,963.13",0.00,0.00,0.00,"9,088,858.80","9,068,895.67"
+90-FRP,"54,704.26",0.00,0.00,0.00,"9,091,490.32","9,036,786.06"
+95-FRP,"12,847.21",0.00,0.00,0.00,"9,063,730.66","9,050,883.45"
+99-FRP,0.00,0.00,0.00,0.00,"9,070,521.51","9,070,521.51"
